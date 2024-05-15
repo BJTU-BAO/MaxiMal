@@ -1,0 +1,8 @@
+{
+    "learning_rate": 0.01,
+    "num_hidden": 256,
+    "num_proj_hidden": 256,
+    "activation": "prelu",
+    "tau": 0.4,
+    "num_epochs": 5000
+}
