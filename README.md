@@ -14,3 +14,14 @@ python MaxiMal.py
 ```
 python evaluation.py 
 ```
+## Citation
+If you use our code in your research, please cite the following article:
+```
+@inproceedings{zhang2024maximizing,
+  title={Maximizing Malicious Influence in Node Injection Attack},
+  author={Zhang, Xiao and Bao, Peng and Pan, Shirui},
+  booktitle={Proceedings of the 17th ACM International Conference on Web Search and Data Mining},
+  pages={958--966},
+  year={2024}
+}
+```
